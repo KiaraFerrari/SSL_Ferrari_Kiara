@@ -1,2 +1,2 @@
 # SSL_Ferrari_Kiara
-Repositorio Sintaxis 2021
+ESte es mi repositorio para Sintaxis y Semantica de los Lenguajes 2021
