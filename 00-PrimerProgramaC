@@ -1,1 +1,6 @@
-Voy a desarrollar un codigo que escriba mi nombre y edad
+#include <stdio.h>4
+
+int main(){
+printf("Hola mundo\n);
+    return 0;
+}
